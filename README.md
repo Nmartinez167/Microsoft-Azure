@@ -29,8 +29,7 @@ This repository provides a guide to set up the necessary resources in Azure for 
 - Provide a Resource Group Name and select a region.
 - Click Review + Create and then Create.
 
-<img width="493" alt="Screenshot 2025-01-23 at 8 11 51 PM" src="https://github.com/user-attachments/assets/391ac58f-6ed7-48ec-a99d-e7d92e3290a8" />
-<img width="751" alt="Screenshot 2025-01-23 at 8 12 06 PM" src="https://github.com/user-attachments/assets/d6b4c864-0b91-4493-8f53-75252b975286" />
+<img width="50%" height="50%" alt="Screenshot 2025-12-23 085139" src="https://github.com/user-attachments/assets/bbab9dea-0752-4370-8c9d-44c6ecd58c1f" />
 
 
 **3. Create a Windows 10 Virtual Machine**
@@ -45,9 +44,8 @@ This repository provides a guide to set up the necessary resources in Azure for 
     - Allow Azure to create a new Virtual Network (VNet) and Subnet.
 - Configure other settings as needed and click Review + Create and then Create.
 
-<img width="552" alt="Screenshot 2025-01-23 at 8 12 42 PM" src="https://github.com/user-attachments/assets/35f18552-f163-42dd-a1b8-6c134474450e" />
-<img width="555" alt="Screenshot 2025-01-23 at 8 12 57 PM" src="https://github.com/user-attachments/assets/82c89b5b-fa0e-40d5-a7d6-fa87fe234d29" />
-<img width="581" alt="Screenshot 2025-01-23 at 8 13 34 PM" src="https://github.com/user-attachments/assets/6689859f-a460-4ef4-ae83-61a04356fb5a" />
+<img width="50%" height="50%" alt="Screenshot 2026-01-13 081342" src="https://github.com/user-attachments/assets/efcc6fbc-7d97-4793-b588-61a3777e84f9" />
+
 
 
 **4. Create a Linux (Ubuntu) Virtual Machine**
