@@ -61,10 +61,7 @@ This repository provides a guide to set up the necessary resources in Azure for 
     - Subnet: Ensure it matches the Subnet of the Windows 10 VM.
 - Configure other settings as needed and click Review + Create and then Create.
 
-<img width="590" alt="Screenshot 2025-01-23 at 8 14 29 PM" src="https://github.com/user-attachments/assets/8d61e13a-a726-4966-94aa-7e3c594a4467" />
-<img width="591" alt="Screenshot 2025-01-23 at 8 14 50 PM" src="https://github.com/user-attachments/assets/608a091a-568e-4fb5-aa28-df57a565dc9e" />
-<img width="618" alt="Screenshot 2025-01-23 at 8 15 17 PM" src="https://github.com/user-attachments/assets/8cde4ee8-fef1-4186-a808-473033c8fa16" />
-
+<img width="50%" height="50%" alt="777777" src="https://github.com/user-attachments/assets/27d25cd0-4980-4b5e-8943-5e7e2849f24b" />
 
 **5. Verify Setup**
 - Ensure both VMs are in the same Virtual Network and Subnet.
